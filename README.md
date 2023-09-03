@@ -12,10 +12,7 @@ Software engineer in testing with a rich background in streamlining CI/CD proces
 ## Skills:
 
 #### Languages:
-![image](https://github.com/bmamdouh/bmamdouh/assets/10897611/34734a2d-fc7d-43b3-a600-f202ff524fe9)
-![image](https://github.com/bmamdouh/bmamdouh/assets/10897611/8df1e08b-4d50-41e2-8f65-b939cf365660)
-![image](https://github.com/bmamdouh/bmamdouh/assets/10897611/7e9ad78a-0743-4cbd-80bf-3da19f1423de)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### Database
 
