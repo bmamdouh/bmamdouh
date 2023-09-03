@@ -12,17 +12,15 @@ Software engineer in testing with a rich background in streamlining CI/CD proces
 ## Skills:
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java)]()
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+[![stack](https://skillicons.dev/icons?i=aws,githubactions,jenkins,grafana,graphql,nodejs,electron,powershell,linux)]()
 
 
 ## Connect with me:
