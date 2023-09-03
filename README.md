@@ -14,21 +14,22 @@ Software engineer in testing with a rich background in streamlining CI/CD proces
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java)]()
 
+
 #### Database
 
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
 #### Tools and Technologies
 
-[![stack](https://skillicons.dev/icons?i=aws,githubactions,jenkins,grafana,graphql,nodejs,electron,powershell,linux)]()
+[![stack](https://skillicons.dev/icons?i=aws,githubactions,jenkins,grafana,graphql,nodejs,electron,powershell,linux,selenium)]()
 
 
 ## Connect with me:
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/bassammamdouh/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bmamdouh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmamdouh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
